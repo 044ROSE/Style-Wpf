@@ -1,0 +1,29 @@
+C:\Users\Petrashek Yaroslav\source\repos\Wpf_Style\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\Petrashek Yaroslav\source\repos\Wpf_Style\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\Petrashek Yaroslav\source\repos\Wpf_Style\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\Petrashek Yaroslav\source\repos\Wpf_Style\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\Petrashek Yaroslav\source\repos\Wpf_Style\WpfApp2\obj\Debug\App.g.cs
+C:\Users\Petrashek Yaroslav\source\repos\Wpf_Style\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\Petrashek Yaroslav\source\repos\Wpf_Style\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\Petrashek Yaroslav\source\repos\Wpf_Style\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\Petrashek Yaroslav\source\repos\Wpf_Style\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\Petrashek Yaroslav\source\repos\Wpf_Style\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\Petrashek Yaroslav\source\repos\Wpf_Style\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\Petrashek Yaroslav\source\repos\Wpf_Style\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\Petrashek Yaroslav\source\repos\Wpf_Style\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\Petrashek Yaroslav\source\repos\Wpf_Style\WpfApp2\obj\Debug\WpfApp2.pdb
+C:\Users\cocma\Desktop\1233\WpfApp2\bin\Debug\WpfApp2.exe.config
+C:\Users\cocma\Desktop\1233\WpfApp2\bin\Debug\WpfApp2.exe
+C:\Users\cocma\Desktop\1233\WpfApp2\bin\Debug\WpfApp2.pdb
+C:\Users\cocma\Desktop\1233\WpfApp2\obj\Debug\WpfApp2.csprojAssemblyReference.cache
+C:\Users\cocma\Desktop\1233\WpfApp2\obj\Debug\MainWindow.g.cs
+C:\Users\cocma\Desktop\1233\WpfApp2\obj\Debug\App.g.cs
+C:\Users\cocma\Desktop\1233\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.cache
+C:\Users\cocma\Desktop\1233\WpfApp2\obj\Debug\WpfApp2_MarkupCompile.lref
+C:\Users\cocma\Desktop\1233\WpfApp2\obj\Debug\MainWindow.baml
+C:\Users\cocma\Desktop\1233\WpfApp2\obj\Debug\WpfApp2.g.resources
+C:\Users\cocma\Desktop\1233\WpfApp2\obj\Debug\WpfApp2.Properties.Resources.resources
+C:\Users\cocma\Desktop\1233\WpfApp2\obj\Debug\WpfApp2.csproj.GenerateResource.cache
+C:\Users\cocma\Desktop\1233\WpfApp2\obj\Debug\WpfApp2.csproj.CoreCompileInputs.cache
+C:\Users\cocma\Desktop\1233\WpfApp2\obj\Debug\WpfApp2.exe
+C:\Users\cocma\Desktop\1233\WpfApp2\obj\Debug\WpfApp2.pdb
